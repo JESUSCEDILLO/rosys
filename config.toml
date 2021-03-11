@@ -1,4 +1,4 @@
-baseURL = "https://jesuscedillo.github.io/rosys/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Rosy's | House Cleaning"
 theme = "timer-hugo"
@@ -12,7 +12,7 @@ url     = "/"
 weight  = 1
 [[menu.main]]
 name    = "About"
-url     = "about/"
+url     = "/about"
 weight  = 2
 [[menu.main]]
 name    = "Service"
