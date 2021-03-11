@@ -13,6 +13,6 @@ We have our cleaning supplies but we will use yours if that’s what is preferre
 Free estimates.pets are welcome 🐶🐱❤️ we use organic cleaning items is my client's decision 👶🏻🐶❤️🌳🌍 we are ready with a team to disinfect your house 🏠 ❤️We  enter in your house  we  used glove,  masks 😷 , 
 Feel free to contact us @can send text message
 
-![about Rosy's](/images/about/1.jpg)
+![ Rosy's about](https://jesuscedillo.github.io/rosys/about/images/about/1.jpg)
 
 
