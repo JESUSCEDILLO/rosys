@@ -81,7 +81,7 @@ title   = "SO WHAT YOU THINK ? / Y ... QUE PIENSAS ? "
 content = "Too Busy to Clean Your Place?  Feel free to contact us @can send text message (956) 999-3384   / ¿Demasiado ocupado para limpiar tu casa? No dude en contactarnos puede enviar un mensaje de texto (956) 999-3384"
 btnText = "Contact with me"
 btnURL  = "/contact"
-image   = "images/x.jpg"
+image   = "../images/x.jpg"
 
 # Portfolio Section On Homepage
 [params.portfolio]
