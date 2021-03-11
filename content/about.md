@@ -16,13 +16,13 @@ Feel free to contact us @can send text message
 ![ Rosy's about](../images/about/1.jpg)
 
 ![ services 1 ](../images/about/lun1.jpg)
-![ services 2 ](../images/about/lun (2).jpeg)
-![ services ](../images/about/lun (3).jpeg)
-![ services ](../images/about/lun (4).jpeg)
-![ services ](../images/about/lun (5).jpeg)
-![ services ](../images/about/lun (6).jpeg)
-![ services ](../images/about/lun (7).jpeg)
-![ services ](../images/about/lun (8).jpeg)
-![ services ](../images/about/lun (9).jpeg)
+![ services 2 ](../images/about/lun2.jpg)
+![ services ](../images/about/lun3.jpg)
+![ services ](../images/about/lun4.jpg)
+![ services ](../images/about/lun5.jpg)
+![ services ](../images/about/lun6.jpg)
+![ services ](../images/about/lun7.jpg)
+![ services ](../images/about/lun8.jpg)
+![ services ](../images/about/lun9.jpg)
 
 
