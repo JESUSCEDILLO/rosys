@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 date: 2021-03-06T10:53:04-06:00
-draft: true
+draft: false
 ---
 
 # Gallery / Galería

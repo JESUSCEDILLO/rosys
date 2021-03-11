@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2021-03-06T15:41:24-06:00
-draft: true
+draft: false
 ---
 
 # Contact / Contacto
