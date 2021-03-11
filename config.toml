@@ -8,19 +8,19 @@ theme = "timer-hugo"
 # Navbar Menus
 [[menu.main]]
 name    = "Home"
-url     = "https://jesuscedillo.github.io/rosys/"
+url     = "/"
 weight  = 1
 [[menu.main]]
 name    = "About"
-url     = "/about/"
+url     = "/about"
 weight  = 2
 [[menu.main]]
 name    = "Service"
-url     = "service"
+url     = "/service"
 weight  = 3
 [[menu.main]]
 name    = "Gallery"
-url     = "gallery"
+url     = "/gallery"
 weight  = 4
 # [[menu.main]]
 # name    = "Blog"
