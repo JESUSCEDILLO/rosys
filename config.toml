@@ -1,0 +1,103 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rosy's | House Cleaning"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Home"
+url     = "/"
+weight  = 1
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+[[menu.main]]
+name    = "Gallery"
+url     = "gallery"
+weight  = 4
+# [[menu.main]]
+# name    = "Blog"
+# url     = "blog"
+# weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logoy.PNG"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Sitio Oficial de Rosy's House Cleanning"
+author = "Fausto Guerrero/Jesús Cedillo"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/y.jpg"
+heading = "HI, WE ARE ROSY'S HOUSE CLEANING"
+description = " House cleaning 🏡❤️ "
+
+
+# # button
+# btn     = true
+# btnText = "Download More"
+# btnURL  = "https://www.carlorossetti.com.mx/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "We offer deep cleaning..."
+[[params.banner.flipText]]
+title   = "basic cleaning"
+[[params.banner.flipText]]
+title   = "Your home is a temple of relaxation"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT"
+content = "We offer specialized cleaning services depending on your needs. We offer deep cleaning, or basic cleaning. We offer our services to apartments, houses, move in or house move outs, and commercial businesses. We have our cleaning supplies but we will use yours if that’s what is preferred. I have good reference .I love my job it would be a pleasure to work for you Free estimates.pets are welcome 🐶🐱❤️ we use organic cleaning items is my client's decision 👶🏻🐶❤️🌳🌍 we are ready with a team to disinfect your house 🏠 ❤️We  enter in your house  we  used glove,  masks 😷 ," 
+image   = "images/eq.jpg"
+
+
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT YOU THINK ? / Y ... QUE PIENSAS ? "
+content = "Too Busy to Clean Your Place?  Feel free to contact us @can send text message (956) 999-3384   / ¿Demasiado ocupado para limpiar tu casa? No dude en contactarnos puede enviar un mensaje de texto (956) 999-3384"
+btnText = "Contact with me"
+btnURL  = "/contact"
+image   = "images/x.jpg"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = false
+title   = "Latest Works / Trabajos recientes"
+subtitle= "....."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://www.instagram.com/rosagutierrez1607/"
+
+# [[params.socialIcon]]
+# icon = "ion-social-linkedin"
+# url = "#"
