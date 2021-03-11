@@ -64,6 +64,9 @@ title   = "We offer deep cleaning..."
 title   = "basic cleaning"
 [[params.banner.flipText]]
 title   = "Your home is a temple of relaxation"
+[[params.banner.flipText]]
+title   = "Feel free to contact us"
+
 
 # Homepage About Section
 [params.about]
