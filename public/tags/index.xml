@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rosy&#39;s | House Cleaning</title>
-    <link>http://example.org/tags/</link>
+    <link>https://jesuscedillo.github.io/rosys/tags/</link>
     <description>Recent content in Tags on Rosy&#39;s | House Cleaning</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jesuscedillo.github.io/rosys/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
