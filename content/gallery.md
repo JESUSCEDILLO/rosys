@@ -23,9 +23,9 @@ Brindando con mucha satisfacción un servicio que radica en mantener los espacio
 
 
 
-![antes](../images/gallery/2a.jpg)
+<!-- ![antes](../images/gallery/2a.jpg)
 ![->](../images/flechad.PNG)
-![despues](../images/gallery/2b.jpg)
+![despues](../images/gallery/2b.jpg) -->
 
 
 ![antes](../images/gallery/3a.jpg)
